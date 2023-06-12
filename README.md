@@ -9,3 +9,6 @@ Instructions:
 3> Run the app using `streamlit run csv_analyzer.py`
 4> Upload CSV
 5> Change the different paramters in the webapp
+
+Here is a link to the application
+[streamlit application](https://zoepowers-streamlitapp-main-6ov3ds.streamlit.app/)
